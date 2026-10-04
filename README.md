@@ -9,7 +9,7 @@ Full-stack and AI engineer in Munich. I build products from the interface to the
 | [meal-planner](https://github.com/bechirboujelbene/meal-planner) | Plans a week of meals within a budget from real supermarket products *(in development)* | Java 21, Spring Boot, OR-Tools, Next.js, Python |
 | [sport-matcher](https://github.com/bechirboujelbene/sport-matcher) · [demo](https://bechirboujelbene.github.io/sport-matcher/) | Matches people with sports partners by sport, skill level and location | Spring Boot, React, Kubernetes, Terraform |
 | [pulse](https://github.com/bechirboujelbene/pulse) · [demo](https://bechirboujelbene.github.io/pulse/) | Customer feedback inbox with routing, internal notes and AI summaries | React, TypeScript, Express, SQLite |
-| [reposcope](https://github.com/bechirboujelbene/reposcope) | Search a GitHub user and browse their repositories | React, TypeScript, GraphQL |
+| [reposcope](https://github.com/bechirboujelbene/reposcope) · [demo](https://reposcope-one.vercel.app) | Search a GitHub user and browse their repositories | React, TypeScript, GraphQL |
 | [StarWars](https://github.com/bechirboujelbene/StarWars) | Native iOS app with offline cache and Face ID | Swift, SwiftUI, GraphQL |
 | [DPO](https://github.com/bechirboujelbene/DPO) | Language model fine-tuned with Direct Preference Optimization | PyTorch, Hugging Face TRL |
 
