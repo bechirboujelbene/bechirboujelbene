@@ -15,4 +15,4 @@ Full-stack and AI engineer in Munich. I build products from the interface to the
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/bechir-boujelbene/) · [bechirboujlben@gmail.com](mailto:bechirboujlben@gmail.com)
+[Portfolio](https://bechirboujelbene.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bechir-boujelbene/) · [bechirboujlben@gmail.com](mailto:bechirboujlben@gmail.com)
